@@ -1,4 +1,5 @@
 # BreastCancerDetection
+![text](https://github.com/EricLi-Dev/BreastCancerDetection/blob/main/Images/4_categories.png)
 Using CNNs to detect and classify breast cancer histology H&amp;E stained images
 
 # Dataset
