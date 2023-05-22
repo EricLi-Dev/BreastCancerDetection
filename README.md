@@ -3,6 +3,7 @@
 Using CNNs to detect and classify breast cancer histology H&amp;E stained images
 
 # Dataset
+![text](https://github.com/EricLi-Dev/BreastCancerDetection/blob/main/Images/4_categories_figure.png)
 https://iciar2018-challenge.grand-challenge.org/
 
 The ICIAR 2018 Breast Cancer Histology dataset is from the ICIAR 2018 Grand Challenge on BreAst Cancer Histology (BACH) images for classifying H&E stained breast cancer histology microscopy images into four classes: normal, benign, in situ carcinoma, and invasive carcinoma. The training dataset consists of 100 images per category, making 400 H&E stained images (2048 x 1536 pixels) in TIF format. The entire dataset is ~10gb in size with each image being about 18mb. The image-wise annotation was performed by two medical experts. Another set of 100 images is included in the dataset for testing purposes, in addition to the training set.
