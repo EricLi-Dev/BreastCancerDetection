@@ -35,7 +35,7 @@ Compare the performance of a CNN-based architecture for feature extraction
   Local/Global Patches + Supervised VGG16 Feature Extraction + XGBoost -> 0.81
   
 # Referenced Papers:
-[1]. Rakhlin, Alexander, et al. "Deep convolutional neural networks for breast cancer histology image analysis." Image Analysis and Recognition: 15th International Conference, ICIAR 2018, Póvoa de Varzim, Portugal, June 27–29, 2018, Proceedings 15. Springer International Publishing, 2018.
-[2] Nazeri, Kamyar, et al. “Two-Stage Convolutional Neural Network for Breast Cancer Histology Image Classification.” Lecture Notes in Computer Science, 2018, pp. 717–726, https://doi.org/10.1007/978-3-319-93000-8_81. 
-[3] Macenko, Marc, et al. “A Method for Normalizing Histology Slides for Quantitative Analysis.” 2009 IEEE International Symposium on Biomedical Imaging: From Nano to Macro, 2009, https://doi.org/10.1109/isbi.2009.5193250. 
+[1]. Rakhlin, Alexander, et al. "Deep convolutional neural networks for breast cancer histology image analysis." Image Analysis and Recognition: 15th International Conference, ICIAR 2018, Póvoa de Varzim, Portugal, June 27–29, 2018, Proceedings 15. Springer International Publishing, 2018.\
+[2] Nazeri, Kamyar, et al. “Two-Stage Convolutional Neural Network for Breast Cancer Histology Image Classification.” Lecture Notes in Computer Science, 2018, pp. 717–726, https://doi.org/10.1007/978-3-319-93000-8_81. \
+[3] Macenko, Marc, et al. “A Method for Normalizing Histology Slides for Quantitative Analysis.” 2009 IEEE International Symposium on Biomedical Imaging: From Nano to Macro, 2009, https://doi.org/10.1109/isbi.2009.5193250. \
 
